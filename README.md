@@ -9,7 +9,7 @@ Lazzy is an automatic lecture note generator, which takes in an audio input of c
 - OpenAI Whisper API
 - Facebook's BART LLM
 - ReportLab PDF Toolkit
-- 
+  
 ## Architecture
 The simplified architecture of the system is given below. The three major sub processes of the system are:
 - Converting the input MP3 Audio File into a Text Transcript 
@@ -33,3 +33,8 @@ Finally we use Python ReportLab Toolkit to design and generate a professional-lo
 <img width="1680" alt="Screenshot 2023-06-24 at 5 00 00 PM" src="https://github.com/yoonus47/lazzy.ai/assets/57011711/50a54a46-d2ea-4e5b-9642-00cf163b8432">
 <img width="1680" alt="Screenshot 2023-06-24 at 5 02 07 PM" src="https://github.com/yoonus47/lazzy.ai/assets/57011711/be928e09-b7ee-4c0c-a635-acad42f28299">
 <img width="1680" alt="Screenshot 2023-06-24 at 5 02 29 PM" src="https://github.com/yoonus47/lazzy.ai/assets/57011711/286a242d-695f-4e9e-8a2e-e829df7fd752">
+
+## Our Team
+- [Muhammad Yoonus](https://github.com/yoonus47)
+- [Vishnu A](https://github.com/VishnuAnkoth) 
+- [Sahir Nisar](https://github.com/sahirnisar)
